@@ -2,9 +2,9 @@
     box-sizing: border-box;
 }
 body {
-    background: #F5F4EF;
+    background:black;
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #000305;
+    color:red;
     font-size: 14px;   
     line-height: 1.5;
 }
